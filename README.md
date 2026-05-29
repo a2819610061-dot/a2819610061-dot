@@ -67,17 +67,6 @@ AI Learning Roadmap
 | Prompt Collection | 常用 Prompt、案例和优化思路 | Planning |
 | AI Mini Demos | AI 小工具、自动化工作流或实践 Demo | Planning |
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a2819610061-dot&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2819610061-dot&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
